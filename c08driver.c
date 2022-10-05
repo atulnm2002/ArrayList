@@ -1,5 +1,4 @@
 //  Test driver for ordered arrayList project.
-//  CS 2505 Spring 2022
 //
 //  Necessary files:
 //     c08driver.c
