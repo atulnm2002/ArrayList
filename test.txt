@@ -1,0 +1,10 @@
+allisar01	Art	Allison	1871-05-04	1876-10-05		
+kuhnsch01	Charlie	Kuhns	1897-06-04	1899-10-14		
+watsodo01	Doc	Watson	9/3/1913	9/21/1915		
+stronji01	Jim	Stroner	5/1/1929	5/31/1929		
+polivke01	Ken	Polivka	4/18/1947	4/23/1947		
+shamsar01	Art	Shamsky	4/17/1965	7/18/1972		
+bordiri01	Rich	Bordi	7/16/1980	7/19/1988		
+telghda01	Dave	Telgheder	6/12/1993	6/2/1998		
+nixla01	Laynce	Nix	7/10/2003	8/3/2013		
+chapmja02	Jaye	Chapman	9/4/2012	10/3/2012		

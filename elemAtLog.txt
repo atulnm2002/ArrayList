@@ -1,0 +1,53 @@
+Beginning test of AL_elemAt()...
+
+Test case 1:
+   Looking for the record at index 3
+   Calling AL_elementAt(3)...
+   MLBP_compare() says the found record is a match
+
+Test case 2:
+   Looking for the record at index 6
+   Calling AL_elementAt(6)...
+   MLBP_compare() says the found record is a match
+
+Test case 3:
+   Looking for the record at index 7
+   Calling AL_elementAt(7)...
+   MLBP_compare() says the found record is a match
+
+Test case 4:
+   Looking for the record at index 5
+   Calling AL_elementAt(5)...
+   MLBP_compare() says the found record is a match
+
+Test case 5:
+   Looking for the record at index 4
+   Calling AL_elementAt(4)...
+   MLBP_compare() says the found record is a match
+
+Test case 6:
+   Looking for the record at index 8
+   Calling AL_elementAt(8)...
+   MLBP_compare() says the found record is a match
+
+Test case 7:
+   Looking for the record at index 9
+   Calling AL_elementAt(9)...
+   MLBP_compare() says the found record is a match
+
+Test case 8:
+   Looking for the record at index 2
+   Calling AL_elementAt(2)...
+   MLBP_compare() says the found record is a match
+
+Test case 9:
+   Looking for the record at index 0
+   Calling AL_elementAt(0)...
+   MLBP_compare() says the found record is a match
+
+Test case 10:
+   Looking for the record at index 1
+   Calling AL_elementAt(1)...
+   MLBP_compare() says the found record is a match
+
+2 >> Score for AL_elemAt():  100 / 100

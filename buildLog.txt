@@ -1,0 +1,78 @@
+Beginning test of AL_elemAt()...
+
+   Building an arrayList from the MLB data file...
+   Comparing your arrayList to the reference arrayList...
+OK... your elemSz is correct
+OK... your capacity is correct
+OK... your usasge is correct
+Going to try to print element at index 0... this could go badly...
+ID:     allisar01
+Name:   Allison, Art
+Debut:  1871-05-04
+Finale: 1876-10-05
+Going to compare your entry to the reference entry:
+OK... those do match
+Going to try to print element at index 1... this could go badly...
+ID:     bordiri01
+Name:   Bordi, Rich
+Debut:  7/16/1980
+Finale: 7/19/1988
+Going to compare your entry to the reference entry:
+OK... those do match
+Going to try to print element at index 2... this could go badly...
+ID:     chapmja02
+Name:   Chapman, Jaye
+Debut:  9/4/2012
+Finale: 10/3/2012
+Going to compare your entry to the reference entry:
+OK... those do match
+Going to try to print element at index 3... this could go badly...
+ID:     kuhnsch01
+Name:   Kuhns, Charlie
+Debut:  1897-06-04
+Finale: 1899-10-14
+Going to compare your entry to the reference entry:
+OK... those do match
+Going to try to print element at index 4... this could go badly...
+ID:     nixla01
+Name:   Nix, Laynce
+Debut:  7/10/2003
+Finale: 8/3/2013
+Going to compare your entry to the reference entry:
+OK... those do match
+Going to try to print element at index 5... this could go badly...
+ID:     polivke01
+Name:   Polivka, Ken
+Debut:  4/18/1947
+Finale: 4/23/1947
+Going to compare your entry to the reference entry:
+OK... those do match
+Going to try to print element at index 6... this could go badly...
+ID:     shamsar01
+Name:   Shamsky, Art
+Debut:  4/17/1965
+Finale: 7/18/1972
+Going to compare your entry to the reference entry:
+OK... those do match
+Going to try to print element at index 7... this could go badly...
+ID:     stronji01
+Name:   Stroner, Jim
+Debut:  5/1/1929
+Finale: 5/31/1929
+Going to compare your entry to the reference entry:
+OK... those do match
+Going to try to print element at index 8... this could go badly...
+ID:     telghda01
+Name:   Telgheder, Dave
+Debut:  6/12/1993
+Finale: 6/2/1998
+Going to compare your entry to the reference entry:
+OK... those do match
+Going to try to print element at index 9... this could go badly...
+ID:     watsodo01
+Name:   Watson, Doc
+Debut:  9/3/1913
+Finale: 9/21/1915
+Going to compare your entry to the reference entry:
+OK... those do match
+1 >> Score for AL_create():  130 / 130
