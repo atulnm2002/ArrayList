@@ -3,8 +3,6 @@
 #include <inttypes.h>
 #include <stdbool.h>
 
-/*** DO NOT MODIFY THIS FILE IN ANY WAY!! ***/
-   	
 /**  Generic data structure using contiguous storage for user data objects,
  *   which are stored in ascending order, as defined by a user-supplied
  *   comparison function.  The interface of the comparison function must
