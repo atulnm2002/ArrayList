@@ -6,8 +6,6 @@
 #define MAX_DBLINE 100       // maximum length of a line in the MLB data file
 #define MAX_LINES  10000     
 
-/*** DO NOT MODIFY THIS FILE IN ANY WAY!! ***/
-
 /**  Extracts a random subset of records from the master MLB data file
  *   and writes them to a new file.
  *   Pre:   dbFile is opened for output
