@@ -3,8 +3,6 @@
 #include <stdio.h>
 #include <inttypes.h>
 
-/*** DO NOT MODIFY THIS FILE IN ANY WAY!! ***/
-
 /**  Data type to organize some information about personnel in MLB, where
  *   each datum is a dynamically-allocated C-string.
  * 
