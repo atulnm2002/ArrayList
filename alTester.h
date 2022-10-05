@@ -4,8 +4,6 @@
 #include <stdbool.h>
 #include "arrayList.h"
 
-/*** DO NOT MODIFY THIS FILE IN ANY WAY!! ***/
-
 /**  Attempts to create an arrayList object and populate it with MLBPerson
  *   objects, created from the previously-created MLB data file.
  *   Pre:   dbFile is open for reading on a file of MLB data
