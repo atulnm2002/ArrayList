@@ -5,8 +5,6 @@
 #include <inttypes.h>
 #include <stdbool.h>
 
-/*** DO NOT MODIFY THIS FILE IN ANY WAY!! ***/
-
 /**  Creates a new, empty arrayList object such that:
  * 
  *      - capacity equals dimension
